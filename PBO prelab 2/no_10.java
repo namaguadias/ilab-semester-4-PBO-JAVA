@@ -15,3 +15,12 @@ public static double readDouble(String prompt) {
             return readDouble(prompt); 
         }
 }
+
+/* 
+    
+JOKI BY RINCEMBER 
+IG : rincemberr 
+
+:D
+
+ */
