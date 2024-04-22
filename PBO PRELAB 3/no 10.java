@@ -20,3 +20,11 @@ public static Mahasiswa buatMahasiswa() {
 
 }
 
+/* 
+    
+JOKI BY RINCEMBER 
+IG : rincemberr 
+
+:D
+
+ */

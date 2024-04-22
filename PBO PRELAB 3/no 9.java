@@ -45,3 +45,12 @@ System.out.println((i+1) + ". " + mhs[i].getData());
         }
     }    
 }
+
+/* 
+    
+JOKI BY RINCEMBER 
+IG : rincemberr 
+
+:D
+
+ */

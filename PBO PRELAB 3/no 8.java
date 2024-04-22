@@ -30,3 +30,12 @@ sisi = keyboard.nextDouble();
         System.out.println("Luas bujur sangkar = " + kotak.getLuas());
     }        
 }
+
+/* 
+    
+JOKI BY RINCEMBER 
+IG : rincemberr 
+
+:D
+
+ */
